@@ -1,13 +1,13 @@
+Khaki
 Crimson
 Orange
 Green
 Cyan
 Yellow
 Ivory
-Khaki
-Coral
 Silver
 Fuchsia
 Gray
-Brown
+Black
 Red
+White
